@@ -32,13 +32,13 @@ footer {
     color: #ffffff;
 }
 
-footer a {
-    color: #ffffff;
-    text-decoration: underline;
-}
-
 footer p {
     color: #ffffff;
+}
+
+footer a {
+    color: #ffff99;
+    text-decoration: underline;
 }
 
 li {

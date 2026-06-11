@@ -44,6 +44,17 @@ nav a {
     text-decoration: none;
 }
 
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    width: 150px;
+}
+
 main {
     background-color: #ffffff;
     font-size: 18px;

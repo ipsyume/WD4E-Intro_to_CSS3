@@ -24,7 +24,7 @@ main {
 }
 
 main a {
-    color: #0000EE;
+    color: #0000cc;
 }
 
 footer {
@@ -33,6 +33,11 @@ footer {
 }
 
 footer a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+footer p {
     color: #ffffff;
 }
 
@@ -53,5 +58,5 @@ p {
 }
 
 a {
-    color: #0000EE;
+    color: #0000cc;
 }

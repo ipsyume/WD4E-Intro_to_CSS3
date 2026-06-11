@@ -23,8 +23,16 @@ main {
     color: #000000;
 }
 
+main a {
+    color: #0000EE;
+}
+
 footer {
     background-color: #2c3e50;
+    color: #ffffff;
+}
+
+footer a {
     color: #ffffff;
 }
 
@@ -45,5 +53,5 @@ p {
 }
 
 a {
-    color: #ffffff;
+    color: #0000EE;
 }
